@@ -1,0 +1,24 @@
+Python
+pycache/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+Model files
+*.pkl
+model.pkl
+Datasets
+SMSSpamCollection
+*.csv
+*.zip
+data/
+IDE
+.vscode/
+.idea/
+*.swp
+OS
+.DS_Store
+Thumbs.db
